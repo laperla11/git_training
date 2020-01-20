@@ -1,2 +1,3 @@
 {\rtf1}
 Hi!------ I am Bob and I am new here 
+adda socond line to Bob
